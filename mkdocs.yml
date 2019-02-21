@@ -1,0 +1,8 @@
+site_name: W3F Wiki
+
+# extra_javascript:
+#   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+#   - mathjax-config.js
+
+# markdown_extensions:
+#    - mdx_math
