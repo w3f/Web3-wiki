@@ -6,7 +6,7 @@
 Web 3 is the vision of the serverless internet, the decentralised web. An internet where users are in control of
 their own data, identity, and destiny.
 
-The [[Web3 Foundation|Web3-Mission-and-Background]] nurtures and stewards technologies and applications in the fields of decentralized web software protocols, particularly those which utilize modern cryptographic methods to safeguard decentralization, to the benefit and for the stability of the Web 3 ecosystem.
+The [Web3 Foundation](Web3-Mission-and-Background.md) nurtures and stewards technologies and applications in the fields of decentralized web software protocols, particularly those which utilize modern cryptographic methods to safeguard decentralization, to the benefit and for the stability of the Web 3 ecosystem.
 
 
 ## Web 3 Tech Stack
