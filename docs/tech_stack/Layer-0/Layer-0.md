@@ -9,10 +9,12 @@ Layer 0 is made up of two components that can be reused amongst Layer 1 technolo
 ## Components
 
 **(1) [Peer-to-peer (p2p) internet overlay protocols](peer_to_peer_internet_overlay_protocols.md)**
-* Devp2p
-* Libp2p
+
+  * Devp2p
+  * Libp2p
 
 **(2) [Platform-neutral computation description language](platform_neutral_computation_description_language.md)**
-* EVM
-* WASM
-* UTXO
+
+  * EVM
+  * WASM
+  * UTXO
