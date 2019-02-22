@@ -1,6 +1,4 @@
-# Layer 1
-
-## Overview
+# Layer 1 Overview
 
 Layer 1 technology provides the functionality of distribution and interaction.
 
