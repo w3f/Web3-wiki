@@ -4,11 +4,11 @@
 Low trust interaction protocols are a Layer 1 component.
 
 Examples:
-* Ethereum
-* Bitcoin
-* Zcash
-* [Polkadot](Polkadot.md) parachains
-* [Substrate](Substrate.md) blockchains
+  * Ethereum
+  * Bitcoin
+  * Zcash
+  * [Polkadot](Polkadot.md) parachains
+  * [Substrate](Substrate.md) blockchains
 
 
 ## Ethereum
