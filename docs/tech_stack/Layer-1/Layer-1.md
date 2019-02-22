@@ -17,7 +17,7 @@ This layer is made up of four components.
 
 **(4) [Zero/low-trust interaction platforms (shared security)](low_trust_interaction_platforms.md)**
 
-  * [Polkadot](Polkadot.md)
+  * [Polkadot](low_trust_interaction_platforms/polkadot.md)
 
 **(5) [Zero/low-trust interaction protocols](low_trust_interaction_protocols.md)**
 
