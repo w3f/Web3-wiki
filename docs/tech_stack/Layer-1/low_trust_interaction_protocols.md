@@ -4,6 +4,7 @@
 Low trust interaction protocols are a Layer 1 component.
 
 Examples:
+
   * Ethereum
   * Bitcoin
   * Zcash
