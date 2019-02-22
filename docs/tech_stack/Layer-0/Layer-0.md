@@ -1,6 +1,4 @@
-# Layer 0
-
-## Overview
+# Layer 0 Overview
 
 Layer 0 is the lowest layer. It is the foundation upon which the higher layers are built. For example, the first component of Layer 0 provides the necessary networking capabilities necessary for building peer-to-peer networks.
 
