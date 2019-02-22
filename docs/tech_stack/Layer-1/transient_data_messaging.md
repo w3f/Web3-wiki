@@ -4,8 +4,9 @@
 Transient data messaging is a Layer 1 component.
 
 Examples are:
-* Whisper
-* Matrix
+
+  * Whisper
+  * Matrix
 
 ## Whisper
 ### Overview
