@@ -25,6 +25,8 @@ This is the Ethereum compatible JavaScript API which implements the Generic JSON
 * [web3.js GitHub](https://github.com/ethereum/web3.js/)
 * [web3.js Documentation](https://github.com/ethereum/wiki/wiki/JavaScript-API)
 
+***
+
 ### ethers.js
 #### Overview
 Complete Ethereum wallet implementation and utilities in JavaScript.
@@ -33,12 +35,16 @@ Complete Ethereum wallet implementation and utilities in JavaScript.
 * [ethers.js GitHub](https://github.com/ethers-io/ethers.js/)
 * [ethers.js Documentation](https://docs.ethers.io/ethers.js/html/)
 
+***
+
 ### oo7.js
 #### Overview
 A small library providing what might be termed as reactive expressions, Bonds (hence the name). Classes deriving from Bond are expected to determine when their value has changed and call trigger accordingly.
 
 #### Resources
 * [007 GitHub](https://github.com/paritytech/oo7)
+
+***
 
 ### Solidity
 #### Overview
@@ -49,6 +55,8 @@ Solidity is statically typed, supports inheritance, libraries and complex user-d
 #### Resources
 * [Solidity GitHub](https://github.com/ethereum/solidity)
 * [Solidity Documentation](http://solidity.readthedocs.io/en/v0.4.24/)
+
+***
 
 ### Rust
 #### Overview
