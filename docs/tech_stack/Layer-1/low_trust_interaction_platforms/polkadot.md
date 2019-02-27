@@ -7,7 +7,7 @@ Polkadot is heterogeneous because it is entirely flexible and makes no assumptio
 
 Polkadot may be considered equivalent to a set of independent chains (e.g. a set containing Ethereum, Ethereum Classic, Namecoin and Bitcoin) except with important additions: pooled security and trust-free interchain transactability.
 
-Many of the native [parachains](parachains.md) of Polkadot will be written using a [Polkadot Runtime Environment](Polkadot_Runtime_Environment.md) SDK (e.g. Parity Technologies' [Substrate](substrate.md)).
+Many of the native [parachains](../low_trust_interaction_protocols/parachains.md) of Polkadot will be written using a [Polkadot Runtime Environment](../low_trust_interaction_protocols/Polkadot_Runtime_Environment.md) SDK (e.g. Parity Technologies' [Substrate](../low_trust_interaction_protocols/substrate.md)).
 
 # Polkadot Resources
 
