@@ -1,4 +1,4 @@
-# Transient data messaging
+# Transient Data Messaging
 
 ## Overview
 Transient data messaging is a Layer 1 component.
