@@ -1,4 +1,4 @@
-# Low trust interaction protocols
+# Low Trust Interaction Protocols
 
 ## Overview
 Low trust interaction protocols are a Layer 1 component.
@@ -9,7 +9,7 @@ Examples:
   * Bitcoin
   * Zcash
   * [Polkadot parachains](low_trust_interaction_protocols/parachains.md)
-  * [Substrate](low_trust_interaction_protocols/Substrate.md) blockchains
+  * [Substrate](low_trust_interaction_protocols/substrate.md) blockchains
   
 
 ## Ethereum
@@ -49,9 +49,9 @@ A parachain (parallelizable chain) is a simpler form of blockchain, which attach
 
 ## Substrate blockchains
 ### Overview
-Substrate is a product created by Parity Technologies and is Parity's implementation of a [Polkadot Runtime Environment](Polkadot Runtime Environment.md). Substrate is a software development framework to build blockchain technologies. Substrate can be used to create standalone blockchains or to build (native) [parachains](parachains.md).
+Substrate is a product created by Parity Technologies and is Parity's implementation of a [Polkadot Runtime Environment](low_trust_interaction_protocols/polkadot_runtime_environment.md). Substrate is a software development framework to build blockchain technologies. Substrate can be used to create standalone blockchains or to build (native) [parachains](low_trust_interaction_protocols/parachains.md).
 
-For more information, see the dedicated [Substrate](Substrate.md) page on this wiki.
+For more information, see the dedicated [Substrate](low_trust_interaction_protocols/substrate.md) page on this wiki.
 
 ### Resources
 * [Substrate Developer Hub](https://substrate.readme.io/)
