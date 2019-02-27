@@ -8,9 +8,9 @@ Examples:
   * Ethereum
   * Bitcoin
   * Zcash
-  * [Polkadot](Polkadot.md) parachains
-  * [Substrate](Substrate.md) blockchains
-
+  * [Polkadot parachains](low_trust_interaction_protocols/parachains.md)
+  * [Substrate](low_trust_interaction_protocols/Substrate.md) blockchains
+  
 
 ## Ethereum
 ### Overview
