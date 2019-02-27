@@ -6,7 +6,7 @@ This layer is made up of one component.
 
 ## Components
 
-**[Protocol-extensible developer APIs & languages](Protocol_extensible_developer_APIs_and_languages.md)**
+**Protocol-extensible developer APIs & languages**
 
 Examples:
   * web3.js
