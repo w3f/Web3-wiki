@@ -41,7 +41,7 @@ Zcash is the first open, permissionless cryptocurrency that can fully protect th
 
 ## Polkadot parachains
 ### Overview
-A parachain (parallelizable chain) is a simpler form of blockchain, which attaches to the security provided by the [Polkadot](Polkadot.md) Relay Chain rather than providing its own. The Relay Chain is called that because it not only lends security to attached parachains, but also provides a guarantee of secure message-passing between them.
+A parachain (parallelizable chain) is a simpler form of blockchain, which attaches to the security provided by the [Polkadot](low_trust_interaction_platforms/polkadot.md) Relay Chain rather than providing its own. The Relay Chain is called that because it not only lends security to attached parachains, but also provides a guarantee of secure message-passing between them.
 
 ### Resources
 * [Parachain Introduction](https://medium.com/polkadot-network/polkadot-the-parachain-3808040a769a)
