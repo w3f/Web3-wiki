@@ -20,10 +20,11 @@ This layer is made up of four components.
 **(5) [Zero/low-trust interaction protocols](low_trust_interaction_protocols.md)**
 
   * Bitcoin
-  * [Ethereum](Ethereum.md)
+  * [Ethereum](low_trust_interaction_protocols/Ethereum.md)
   * Zcash
   * Edgeware
-  * Polkadot Parachains
+  * [Polkadot parachains](low_trust_interaction_protocols/parachains.md)
+  * [Substrate](low_trust_interaction_protocols/Substrate.md) blockchains
 
 **(6) [Transient data pub/sub messaging](transient_data_messaging.md)**
 
