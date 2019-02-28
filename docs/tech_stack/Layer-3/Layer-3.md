@@ -9,6 +9,7 @@ This layer is made up of one component.
 **Protocol-extensible developer APIs & languages**
 
 Examples:
+
   * web3.js
   * ether.js
   * oo7.js
