@@ -9,6 +9,7 @@ This layer is made up of one component.
 **Protocol-extensible user-interface cradle ("browser")**
 
 Examples:
+
   * Status
   * Metamask
   * MyCrypto
