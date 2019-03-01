@@ -1,4 +1,5 @@
 # Storage Incentivisation
+## Overview
 Storage incentivization mechanisms sit on top of [Data Distribution protocols](https://github.com/w3f/Web3-wiki/wiki/Data-Distribution-Protocols) to incentivize individuals and organizations to store data on their machines. These mechanisms can take the form of decentralized applications that often reward storage providers with a native token.
 
 Examples are:
