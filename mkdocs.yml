@@ -1,6 +1,13 @@
 site_name: W3F Wiki
 site_author: 'Web3 Foundation'
 
+theme:
+  name: 'material'
+  palette:
+    primary: 'deep orange'
+    accent: 'deep orange'
+#  logo: 'images/logo.svg'
+
 extra:
   social:
     - type: 'github'
