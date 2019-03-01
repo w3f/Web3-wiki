@@ -1,4 +1,14 @@
 site_name: W3F Wiki
+site_author: 'Web3 Foundation'
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/w3f'
+    - type: 'twitter'
+      link: 'https://twitter.com/web3foundation'
+    - type: 'medium'
+      link: 'https://medium.com/web3foundation'
 
 # extra_javascript:
 #   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
@@ -6,3 +16,4 @@ site_name: W3F Wiki
 
 # markdown_extensions:
 #    - mdx_math
+
