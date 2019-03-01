@@ -10,6 +10,7 @@ Examples are:
 Enigma is a permissionless peer-to-peer network that allows (_secret contracts_) with strong correctness and privacy guarantees. 
 
 ### Resources
-* [Wiki](https://enigma.co/protocol/) - documentation, gloassary, and configuration.
+* [Wiki](https://github.com/w3f/Web3-wiki/wiki/Encrypted-storage)  - documentation, glossary, and configuration.
 * [Docker](https://github.com/enigmampc/enigma-docker-network) - latest release to begin writing secret contracts.
+* [Website](https://enigma.co/protocol/)
 
