@@ -39,7 +39,7 @@ The [Web3 Foundation](Web3-Mission-and-Background.md) nurtures and stewards tech
  * (7.1) [State channels](tech_stack/Layer-2/state_channels.md)
  * (7.2) [Plasma protocols](tech_stack/Layer-2/plasma_protocols.md)
  * (7.3) [Encrypted storage](tech_stack/Layer-2/encrypted_storage.md)
- * (7.4) [Storage incentivization](tech_stack/Layer-2/storage_incentivization.md)
+ * (7.4) [Storage incentivisation](tech_stack/Layer-2/storage_incentivisation.md)
  * (7.5) [Heavy computation](tech_stack/Layer-2/heavy_computation.md)
  * (7.6) [Distributed secret management](tech_stack/Layer-2/distributed_secret_management.md)
 
