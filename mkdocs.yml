@@ -1,4 +1,4 @@
-site_name: W3F Wiki
+site_name: Web3 Hub
 site_author: 'Web3 Foundation'
 
 # theme:
@@ -23,4 +23,3 @@ extra:
 
 # markdown_extensions:
 #    - mdx_math
-
