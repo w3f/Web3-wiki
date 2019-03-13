@@ -1,5 +1,6 @@
 # Terms and Definitions
 
+Bonding
 Block
 Block explorer
 Bridge
@@ -15,12 +16,13 @@ Governance
 Governance Council
 LIBP2P
 Node explorer
-Nominated Proof of Stake
+Nominated Proof of Stake (NPos)
 Nominator
 Parachain
+Parity
 Polkadot
 Polkadot Runtime Environment
-Proof of Stake
+Proof of Stake (PoS)
 Relay chain
 Runtime Module
 Staking
@@ -29,6 +31,12 @@ Substrate
 Transaction
 Validator
 Voting
-WASM
+WebAssembly / WASM
 Wallet
 Web3 Foundation
+Canonicality
+Validity
+Byzantine Fault Tolerance
+Tendermint
+HoneyBadgerBFT
+Sealing
