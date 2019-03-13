@@ -1,33 +1,34 @@
 # Terms and Definitions
 
-Collator
-Nominator
-Validator
-Fisherman
-Parachain
-DOTs
-Web3 Foundation
-LIBP2P
-Polkadot
-Polkadot Runtime Environment
-Runtime Module
-Relay chain
-Bridge
-Staking
-Governance
-Proof of Stake
-Nominated Proof of Stake
-Voting
-Governance Council
-Consensus
-GRANDPA consensus algorithm
+Block
 Block explorer
-Node explorer
-Wallet
-WASM
+Bridge
+Collator
+Consensus
+DOTs
 Dapp
-State transition
 Finality
 Finality Gadget
-Block
+Fisherman
+GRANDPA consensus algorithm
+Governance
+Governance Council
+LIBP2P
+Node explorer
+Nominated Proof of Stake
+Nominator
+Parachain
+Polkadot
+Polkadot Runtime Environment
+Proof of Stake
+Relay chain
+Runtime Module
+Staking
+State transition
+Substrate
 Transaction
+Validator
+Voting
+WASM
+Wallet
+Web3 Foundation
