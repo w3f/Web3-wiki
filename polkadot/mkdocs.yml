@@ -13,6 +13,9 @@ nav:
 #    accent: 'deep orange'
 #  logo: 'images/logo.svg'
 
+nav:
+
+
 extra:
   social:
     - type: 'github'
