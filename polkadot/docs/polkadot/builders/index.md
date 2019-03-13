@@ -19,7 +19,10 @@ that is not available to be found elsewhere.
 
  - [Basics](./basics.md)
  - [Starter Guide](./starter.md)
- - [Advanced](./advanced.md)
+ - [Making Your Substrate Chain Compatible with Polkadot](./compatible.md)
+ - [Porting Your Substrate Chain to a Parachain](./parachain.md)
+ - [Bridging Your Substrate Chain to Polkadot](./bridging.md)
+ - [Interchain Communication](./interchain.md)
  - [Examples](./examples/index.md)
  - [Development Roadmap](./dev_roadmap.md)
 
