@@ -38,4 +38,8 @@ worry about the gas costs of the logic that you will deploy. Since
 the parachain will be a network that you run with the shared security
 of the relay chain.
 
-This makes certain operations such as dividend pay-outs or token 
+This makes certain operations such as dividend pay-outs or token inflation
+easier to develop into your system.
+
+Things that are hard to do in smart contracts suddenly become available
+to the developer when coding for Polkadot parachains.
