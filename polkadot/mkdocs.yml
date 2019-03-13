@@ -8,6 +8,9 @@ site_author: 'Web3 Foundation'
 #    accent: 'deep orange'
 #  logo: 'images/logo.svg'
 
+nav:
+
+
 extra:
   social:
     - type: 'github'

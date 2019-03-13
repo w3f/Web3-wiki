@@ -1,4 +1,4 @@
-# Polkadot Wiki
+# Home
 
 ## Why Polkadot?
 
@@ -8,30 +8,18 @@
 
 ...
 
-* [Description](tech_stack/tech_stack_overview)
-* [Comparison With Other Stacks](resources/comparison)
-* [Sample Applications](resources/sample-apps)
+* [Description](polkadot)
+* [Comparison With Other Stacks](polkadot/information/comparison)
+* [Sample Applications](community)
 
 ## How Do I Get Started?
 
-* [I want to build a blockchain...](resources/blockchain)
-* [I want to run a node...](resources/node)
-* [I want to understand at a high level...](resources/high-level)
-
-## How Does This Work?
-
-* [Blockchain](resources/blockchain)
-* [Protocols](resources/protocols)
-* [WASM](resources/wasm)
-* [Polkadot](resources/)
-* [Planning For The Future](resources/planning)
-* [FAQ](resources/FAQ)
+* [I want to know what I can build with Polkadot...](polkadot/builders)
+* [I want to build a distributed application...](polkadot/builders/starter_guide)
+* [I want to build a blockchain...](polkadot/builders/examples/networks)
+* [I want to run a node...](polkadot/network_maintainers)
+* [I want to understand Polkadot at a high level...](polkadot)
 
 ## Other
 
-* [Community](resources/community)
-* [Ecosystem](resources/ecosystem)
-* [Collaboration](resources/collaboration)
-* [Web 3 Foundation](resources/web3-foundation)
-
-**Disclaimer:** _This open source resource is a work in progress and is not an exhaustive list of all the projects in the Web3 Tech Stack. This resource should not be interpreted as a promotion or validation of any of the projects herein._
+* [Community / Ecosystem](community)
