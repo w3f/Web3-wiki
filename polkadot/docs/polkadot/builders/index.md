@@ -19,8 +19,7 @@ that is not available to be found elsewhere.
 
 ## Development Guide
 
- - [Basics](./basics.md)
- - [Starter Guide](./starter.md)
+ - [Starter Guide (Deploying your first Parachain)](./starter.md)
  - [Making Your Substrate Chain Compatible with Polkadot](./compatible.md)
  - [Porting Your Substrate Chain to a Parachain](./parachain.md)
  - [Bridging Your Substrate Chain to Polkadot](./bridging.md)
@@ -36,4 +35,5 @@ Visit the [tools](./tools/index.md) directory.
 
 Coming soon.
 
+ - [Deploy your first parachain by Adrian Brink](https://www.youtube.com/watch?v=pDqkzvA4C0E) **For testnet 2**
  - [Networks](./networks.md)
