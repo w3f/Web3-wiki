@@ -5,7 +5,7 @@ Web 3 is the vision of the serverless internet, the decentralised web. An intern
 
 ## What Is The Web3 Stack?
 
-...
+The Web3 stack is a multi-layered approach to decentralized applications, allowing a variety of different
 
 * [Description](tech_stack/tech_stack_overview)
 * [Comparison With Other Stacks](resources/comparison)

@@ -15,7 +15,7 @@ This layer is made up of a single component layer.
     - _NuCypher, Parity Secret Store_
 
 
-  * (7.4) [Storage incentivization](storage_incentivization.md)
+  * (7.4) [Storage incentivisation](storage_incentivisation.md)
   * (7.5) [Heavy computation](heavy_computation.md)
   * (7.6) [Distributed secret management](distributed_secret_management.md)
 

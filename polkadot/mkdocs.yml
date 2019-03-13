@@ -1,0 +1,25 @@
+site_name: Polkadot Wiki
+site_author: 'Web3 Foundation'
+
+# theme:
+#  name: 'material'
+#  palette:
+#    primary: 'deep orange'
+#    accent: 'deep orange'
+#  logo: 'images/logo.svg'
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/polkadot-io'
+    - type: 'twitter'
+      link: 'https://twitter.com/polkadotnetwork'
+    - type: 'medium'
+      link: 'https://medium.com/@polkadotnetwork'
+
+# extra_javascript:
+#   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+#   - mathjax-config.js
+
+# markdown_extensions:
+#    - mdx_math

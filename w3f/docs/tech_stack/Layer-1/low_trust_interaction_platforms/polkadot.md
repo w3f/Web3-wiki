@@ -7,7 +7,7 @@ Polkadot is heterogeneous because it is entirely flexible and makes no assumptio
 
 Polkadot may be considered equivalent to a set of independent chains (e.g. a set containing Ethereum, Ethereum Classic, Namecoin and Bitcoin) except with important additions: pooled security and trust-free interchain transactability.
 
-Many of the native [parachains](../low_trust_interaction_protocols/parachains.md) of Polkadot will be written using a [Polkadot Runtime Environment](../low_trust_interaction_protocols/Polkadot_Runtime_Environment.md) SDK (e.g. Parity Technologies' [Substrate](../low_trust_interaction_protocols/substrate.md)).
+Many of the native [parachains](../low_trust_interaction_protocols/parachains.md) of Polkadot will be written using a [Polkadot Runtime Environment](../low_trust_interaction_protocols/polkadot_runtime_environment.md) SDK (e.g. Parity Technologies' [Substrate](../low_trust_interaction_protocols/substrate.md)).
 
 
 # Polkadot Resources
@@ -15,13 +15,13 @@ Many of the native [parachains](../low_trust_interaction_protocols/parachains.md
 ## Community
 - [Website](https://polkadot.network/) - Overview of Polkadot, including FAQ, graphics and videos.
 - [Medium](https://medium.com/polkadot-network) - Articles and guides on the development and technology.
-- [Riot](https://riot.im/app/#/room/#polkadot-watercooler:matrix.org) - Discuss general Polkadot topics and contact Web3 Foundation and Parity Technologies team members. 
-- [Reddit](https://www.reddit.com/r/dot/) - Share content, tools, and updates. 
-- [Twitter](https://twitter.com/polkadotnetwork) - Updates on the Polkadot platform and community. 
+- [Riot](https://riot.im/app/#/room/#polkadot-watercooler:matrix.org) - Discuss general Polkadot topics and contact Web3 Foundation and Parity Technologies team members.
+- [Reddit](https://www.reddit.com/r/dot/) - Share content, tools, and updates.
+- [Twitter](https://twitter.com/polkadotnetwork) - Updates on the Polkadot platform and community.
 - [Telegram](https://t.me/PolkadotOfficial) - Discuss general Polkadot topics in this channel. Our main place is Riot, but this is for the folks who prefer Telegram.
 - [Technical chat](https://riot.im/app/#/room/#polkadot-technical:matrix.org) - Listen to Core Devs discuss technical topics related to Polkadot.
 - [Beginner's Chat](https://riot.im/app/#/room/#polkadotbeginners:matrix.org) - Learn about Polkadot and how to interact with the testnet.
-- [Parity Substrate Chat](https://riot.im/app/#/room/#substrate-technical:matrix.org) - Discuss technical topics related to the Polkadot runtime environment. 
+- [Parity Substrate Chat](https://riot.im/app/#/room/#substrate-technical:matrix.org) - Discuss technical topics related to the Polkadot runtime environment.
 - [Governance Chat](https://riot.im/app/#/room/#polkadot-governance:matrix.parity.io) - Discuss governance topics related to Polkadot.
 - [Unofficial Telegram](https://t.me/polkadot_trollbox) - Discuss general Polkadot topics in this **unofficial** telegram channel.
 - [Unofficial Reddit](https://www.reddit.com/r/polkadot_market) - **Unofficial** Polkadot discussion.
@@ -33,7 +33,7 @@ Many of the native [parachains](../low_trust_interaction_protocols/parachains.md
 - [Substrate, Polkadot & The Case for On-Chain Governance](https://www.youtube.com/watch?v=eP4mT19S_jg) - Epicenter interviews Gavin Wood.
 - [Blockchain Infrastructure](https://softwareengineeringdaily.com/2018/11/26/parity-blockchain-infrastructure-with-gavin-wood/) - Gavin Wood presents Substrate on Software Daily.
 - [Polkadot Overview](https://www.zeroknowledge.fm/46) - Gavin Wood chatted about the history of Polkadot and provided a great overview on Zero Knowledge podcast.
-- [Polkadot Overview](https://www.youtube.com/watch?v=oiunBLGHlAU) - Epicenter interviews Peter Czaban of Web3 Foundation about Polkadot. 
+- [Polkadot Overview](https://www.youtube.com/watch?v=oiunBLGHlAU) - Epicenter interviews Peter Czaban of Web3 Foundation about Polkadot.
 - [Polkadot Wiki](https://github.com/paritytech/polkadot/wiki) - Set of spec drafts, maintained by Parity Technologies.
 - [Polkadot & Substrate Overview](https://www.youtube.com/watch?v=0IoUZdDi5Is&feature=youtu.be) - Dr. Gavin Wood presents Substrate (blockchain in-a-box + VM) and Polkadot, and builds a blockchain on-stage in 30 minutes using Substrate. (Video)
 - [Polkadot Overview](https://youtu.be/lIghiCmHz0U) - Dr. Gavin Wood presents an overview of Polkadot. (Video)
@@ -45,7 +45,7 @@ Many of the native [parachains](../low_trust_interaction_protocols/parachains.md
 - [What is Substrate?](https://medium.com/paritytech/what-is-substrate-29af4231d7e0) - Explanation of the framework used to build Polkadot.
 - [Substrate Intro](https://youtu.be/iUMZyL5kTwc) - Dr. Gavin Wood presents Substrate, one of the technologies underlying Polkadot.
 - [How Substrate relates to Polkadot](https://medium.com/polkadot-network/a-tale-of-two-technologies-presentation-transcript-e7397c1c7a49) - A Tale of Two Technologies Presentation Transcript
-- [Polkadot & Substrate Overview](https://www.youtube.com/watch?v=0IoUZdDi5Is&feature=youtu.be) - Dr. Gavin Wood presents Substrate (blockchain in-a-box + VM) and Polkadot, and builds a blockchain on-stage in 30 minutes using Substrate. 
+- [Polkadot & Substrate Overview](https://www.youtube.com/watch?v=0IoUZdDi5Is&feature=youtu.be) - Dr. Gavin Wood presents Substrate (blockchain in-a-box + VM) and Polkadot, and builds a blockchain on-stage in 30 minutes using Substrate.
 
 ### Governance
 - [Governance](https://github.com/paritytech/polkadot/wiki/Governance) - Overview of governance system.
@@ -93,8 +93,7 @@ Many of the native [parachains](../low_trust_interaction_protocols/parachains.md
 
 
 ### UI and explorers
-- [POC-3 UI](https://poc-3.polkadot.io/) - Browser and apps. 
-- [Telemetry](http://telemetry.polkadot.io/) - Information services website for nodes. 
+- [POC-3 UI](https://poc-3.polkadot.io/) - Browser and apps.
+- [Telemetry](http://telemetry.polkadot.io/) - Information services website for nodes.
 - [Polkadash](http://polkadash.io/) \- Dashboard displaying validators and governance proposals.
-- [Polkascan](http://polkascan.io/) \- Real-time multi-chain data for Polkadot Relay Chain and Parity Substrate chains. 
-
+- [Polkascan](http://polkascan.io/) \- Real-time multi-chain data for Polkadot Relay Chain and Parity Substrate chains.

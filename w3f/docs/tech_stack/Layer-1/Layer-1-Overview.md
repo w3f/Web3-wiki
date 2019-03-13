@@ -24,10 +24,9 @@ This layer is made up of four components.
   * Zcash
   * Edgeware
   * [Polkadot parachains](low_trust_interaction_protocols/parachains.md)
-  * [Substrate](low_trust_interaction_protocols/Substrate.md) blockchains
+  * [Substrate](low_trust_interaction_protocols/substrate.md) blockchains
 
 **(6) [Transient data pub/sub messaging](transient_data_messaging.md)**
 
   * Whisper
   * Matrix
-
