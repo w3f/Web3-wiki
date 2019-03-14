@@ -22,7 +22,7 @@ The first [Polkadot client](https://github.com/paritytech/polkadot) is written i
 
 Currently the Rust ecosystem is the most mature for Polkadot parachain development. The framework for creating Polkadot parachains is called [Substrate](https://github.com/paritytech/substrate).
 
-There is comprehnsive documentation for building on Substrate available in the [Substrate Development Hub](https://github.com/paritytech/substrate).
+There is comprehnsive documentation for building on Substrate available in the [Substrate Development Hub](https://docs.substrate.dev).
 
 Additional tools you may be interested in:
 

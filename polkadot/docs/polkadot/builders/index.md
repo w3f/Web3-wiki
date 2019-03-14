@@ -1,5 +1,7 @@
 # Builders
 
+> 🏗️ Polkadot is under construction, these documents will rapidly change.
+
 Welcome to the builders section of the Polkadot wiki.
 
 Here you will be able to find the most up-to-date information
@@ -9,8 +11,8 @@ so if you are working on something that should be included please
 reach out to us on [Riot]().
 
 This section of the wiki is divided into three parts: the first
-part takes the shape of a quickstart guide that will get you quickly
-up to speed with developing on Polkadot. The second part is an
+part takes the shape of a technical guide that will get you quickly
+up to speed with developing for Polkadot. The second part is an
 up-to-date catalogue of developer tooling. The third part is a 
 resource which will contain some deeper technical information 
 that is not available to be found elsewhere.
@@ -19,7 +21,10 @@ that is not available to be found elsewhere.
 
  - [Basics](./basics.md)
  - [Starter Guide](./starter.md)
- - [Advanced](./advanced.md)
+ - [Making Your Substrate Chain Compatible with Polkadot](./compatible.md)
+ - [Porting Your Substrate Chain to a Parachain](./parachain.md)
+ - [Bridging Your Substrate Chain to Polkadot](./bridging.md)
+ - [Interchain Communication](./interchain.md)
  - [Examples](./examples/index.md)
  - [Development Roadmap](./dev_roadmap.md)
 
@@ -30,3 +35,5 @@ Visit the [tools](./tools/index.md) directory.
 ## Resources
 
 Coming soon.
+
+ - [Networks](./networks.md)
