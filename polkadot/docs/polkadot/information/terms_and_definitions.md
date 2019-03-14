@@ -8,7 +8,7 @@
 * Consensus - The process of a group of entities to agree on a particular data value (such as the ordering and makeup of blocks on a blockchain).  There are a variety of algorithms used for determining consensus.  The consensus algorithm used by Polkadot is GRANDPA.
 * DOTs - The native token for Polkadot.  DOTs serve three purposes: network governance (allowing them to vote on network upgrades and other exceptional events), general operation (rewarding good actors and punishing bad actors), and bonding (adding new parachains by "freezing" DOTs while they are connected the relay chain).
 * Dapp - A generic term for a decentralized application, that is, one which runs as part of a distributed network as opposed to on a specific system or set of systems.
-* Extrinsic - A function declared by the programmer, i.e., one that is not built-in to the language or framework.
+* Extrinsic - Generically, some function declared by the programmer, i.e., one that is not built-in to the language or framework.  Specifically for Polkadot, this refers to a binary blob which represents some state transition (such as a transaction).
 * Finality - The property of a block which cannot be reverted.  Generally, created blocks are not final until some point in the future - perhaps never, in the case of "probabilistic finality" such as in Bitcoin (although Bitcoin blocks are generally considered "final" after six confirmations due to the unlikelihood of reverting at that point).  In the Polkadot relay chain, the goal is for blocks to be finalized 10-12 seconds after creation.
 * Finality Gadget - A mechanism which determines finality.
 * Fisherman - Nodes which monitor the network for validators or collators which are behaving badly.  Fishermen must stake a small amount of DOTs but can be rewarded greatly if they find bad behavior.
@@ -43,6 +43,6 @@
 * Canonicity
 * Validity
 * Byzantine Fault Tolerance - The property of a system which is tolerant of Byzantine faults; that is, a system where not only may individual subsystems fail, but it may not be clear if a particular subsystem has failed or not.  That is, different observers on the system may not agree on whether or not the system has failed.  Ensuring Byzantine fault tolerance is an important part of developing any distributed system.
-* Sealing
+* Sealing - The process of adding a block to the relay chain.  Note that finalization is a separate process - blocks are finalized some time after they are sealed (the goal is approximately 10 - 12 seconds).
 * Safety - The property of a distributed sytem indicating that the system will properly meet all invariants; that is, that nothing "bad" ever happens to the data (such as it being corrupted).
 * Liveness - The property of a distributed system that it will eventually come to some sort of consensus.  A system stuck in an infinite loop would not be considered live, even if computations are taking place; a system which eventually provides a result, even if incorrect or it takes a long time, is considered to have liveness.
