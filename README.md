@@ -1,6 +1,9 @@
 # Web3-wiki
-The wiki provides an overview of some of the important technologies in the Web3 tech stack.  There are two wikis in this directory:
+The wiki provides an overview of some of the important technologies in the Web3 tech stack.
 
-The Polkadot wiki: wiki.polkadot.network
+There are two wikis in this directory:
 
-The W3F wiki: wiki.web3.foundation
+[Polkadot wiki](https://wiki.polkadot.network)
+
+[W3F wiki](https://wiki.web3.foundation)
+

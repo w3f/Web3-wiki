@@ -53,3 +53,18 @@ In order to deploy a parachain you will need to run your own collator node.
 
 ## Smart Contracts
 
+Polkadot will likely have a variety of parachains which offer smart contracts
+to developers. These are still rapidly progressing and more content will be
+posted as the technology is ready.
+
+### Edgeware
+
+[Edgeware](https://edgewa.re) is a planned parachain for Polkadot which will
+allow for smart contracts.
+
+### pDSL (Parity's Domain Specific Language)
+
+The [pDSL](https://github.com/Robbepop/pdsl) is still in experimental phase and not yet
+accepting external contributors. However, it provides some insight into the future of smart
+contracts. It intends to provide an efficient, simple, robust, accesible language for
+developers that will work with existing Rust tooling.
