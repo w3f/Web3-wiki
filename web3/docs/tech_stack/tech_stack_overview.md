@@ -1,6 +1,6 @@
 # Tech Stack
 
-![](https://i.imgur.com/r0G3SQq.png)
+![](web3_stack.png)
 
 
 ### The Components of the Tech Stack
