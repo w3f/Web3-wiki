@@ -1,6 +1,5 @@
 site_name: Polkadot Wiki
 site_author: 'Web3 Foundation'
-site_favicon: favicon.ico
 
 nav:
  - Home: index.md
@@ -22,7 +21,11 @@ nav:
    - Governance: polkadot/network_maintainers/governance/index.md
  - Chinese Polkadot Resources 中文波卡資源: other_languages/chinese.md
 
-theme: cinder
+theme:
+  custom_dir: 'cinder'
+  name: 'cinder'
+
+site_favicon: favicon.ico
 
 # theme:
 #  name: 'material'
