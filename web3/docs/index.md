@@ -13,3 +13,4 @@ The Web3 Foundation nurtures and stewards technologies and applications in the f
 * [Web3 Community](community) - _How to stay up-to-date with and interact with the Web3 community._
 * [Web3 Ecosystem](ecosystem) - _Projects that have been, or are being, built on the Web3 tech stack._
 * [About the Web 3 Foundation](web3_mission_and_background) - _Information about the Web3 Foundation's mission and background._
+* [Contributing to this Wiki](contribution_guidelines) - _Interested in contributing to this wiki?  Please read the guidelines here._
