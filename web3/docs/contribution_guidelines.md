@@ -2,10 +2,6 @@
 
 ## This wiki is an **OPEN-ish Open Source Project**
 
-* * *
-
-## What?
-
 This is an informational resource on the Web3 Foundation and the Web3 Technical Stack.
 
 Pull requests or other contributions from the community are encouraged!  However, the final decision to add content will be made by the Web3 Foundation.
