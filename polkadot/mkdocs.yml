@@ -22,10 +22,10 @@ nav:
  - Chinese Polkadot Resources 中文波卡資源: other_languages/chinese.md
 
 theme:
-  custom_dir: 'cinder'
-  name: 'cinder'
+  custom_dir: cinder/
+  name: mkdocs
 
-site_favicon: favicon.ico
+favicon: favicon.ico
 
 # theme:
 #  name: 'material'
