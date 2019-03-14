@@ -8,7 +8,7 @@ Here you will be able to find the most up-to-date information
 on the status of the development tools in the ecosystem. We are
 always adding new tools and frameworks as we learn about them
 so if you are working on something that should be included please
-reach out to us on [Riot]().
+reach out to us on [Riot](https://riot.im/app/#/room/#polkadot-watercooler:matrix.org).
 
 This section of the wiki is divided into three parts: the first
 part takes the shape of a technical guide that will get you quickly
@@ -19,12 +19,7 @@ that is not available to be found elsewhere.
 
 ## Development Guide
 
- - [Starter Guide (Deploying your first Parachain)](./starter.md)
- - [Making Your Substrate Chain Compatible with Polkadot](./compatible.md)
- - [Porting Your Substrate Chain to a Parachain](./parachain.md)
- - [Bridging Your Substrate Chain to Polkadot](./bridging.md)
- - [Interchain Communication](./interchain.md)
- - [Examples](./examples/index.md)
+ - [How Can I Build With Polkadot?](./build-w-polkadot.md) **Start here**
  - [Development Roadmap](./dev_roadmap.md)
 
 ## Tools
@@ -33,7 +28,8 @@ Visit the [tools](./tools/index.md) directory.
 
 ## Resources
 
-Coming soon.
-
  - [Deploy your first parachain by Adrian Brink](https://www.youtube.com/watch?v=pDqkzvA4C0E) **For testnet 2**
  - [Networks](./networks.md)
+ - [Examples]('./examples/index.md)
+
+More coming soon.
