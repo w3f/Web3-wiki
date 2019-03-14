@@ -1,10 +1,28 @@
 site_name: Polkadot Wiki
 site_author: 'Web3 Foundation'
+site_favicon: favicon.ico
 
 nav:
- - Overview: polkadot/overview/index.md
- - Network Maintainer: polkadot/network_maintainers/index.md
- - Builders: polkadot/builders/index.md
+ - Home: index.md
+ - Builders: 
+   - Home: polkadot/builders/index.md
+   - Building on Polkadot: polkadot/builders/build-w-polkadot.md
+   - Tools: polkadot/builders/tools/index.md
+   - Examples: polkadot/builders/examples/index.md
+   - Networks: polkadot/builders/networks.md
+ - Information:
+   - FAQ: polkadot/information/faq.md
+   - Roadmap: polkadot/information/polkadot_roadmap.md
+   - Terms: polkadot/information/terms_and_definitions.md
+ - Network Maintainer: 
+   - Home: polkadot/network_maintainers/index.md
+   - Node Operator / Validator: polkadot/network_maintainers/node_operator.md
+   - Nominator: polkadot/network_maintainers/nominator.md
+   - Collator: polkadot/network_maintainers/collator.md
+   - Governance: polkadot/network_maintainers/governance/index.md
+ - Chinese Polkadot Resources 中文波卡資源: other_languages/chinese.md
+
+theme: cinder
 
 # theme:
 #  name: 'material'
@@ -12,9 +30,6 @@ nav:
 #    primary: 'deep orange'
 #    accent: 'deep orange'
 #  logo: 'images/logo.svg'
-
-nav:
-
 
 extra:
   social:
