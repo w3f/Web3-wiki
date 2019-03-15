@@ -1,8 +1,38 @@
 site_name: Web3 Hub
 site_author: 'Web3 Foundation'
 
+nav:
+  - Contributing: contributing.md
+  - Ecosystem: ecosystem.md
+  - Mission: mission.md
+  - Tech Stack:
+    - Overview: tech_stack/tech_stack_overview.md
+    - Layer 0:
+      - Overview: tech_stack/Layer-0/Layer-0-Overview.md
+      - P2P Protocols: tech_stack/Layer-0/peer_to_peer_internet_overlay_protocols.md
+      - Virtual Machine: tech_stack/Layer-0/platform_neutral_computation_description_language.md
+    - Layer 1:
+      - Overview: tech_stack/Layer-1/Layer-1-Overview.md
+      - Data Distribution Protocols: tech_stack/Layer-1/data_distribution_protocols.md
+      - Low Trust Interaction Protocols: tech_stack/Layer-1/low_trust_interaction_protocols.md
+      - Low Trust Interaction Platforms: tech_stack/Layer-1/low_trust_interaction_platforms.md
+      - Transient Data Messaging: tech_stack/Layer-1/transient_data_messaging.md
+    - Layer 2:
+      - Overview: tech_stack/Layer-2/Layer-2-Overview.md
+      - Distributed Secret Management: tech_stack/Layer-2/distributed_secret_management.md
+      - Encrypted Storage: tech_stack/Layer-2/encrypted_storage.md
+      - Heavy Computation: tech_stack/Layer-2/heavy_computation.md
+      - Oracles: tech_stack/Layer-2/oracles.md
+      - Plasma: tech_stack/Layer-2/plasma_protocols.md
+      - State Channels: tech_stack/Layer-2/state_channels.md
+      - Storage Incentivisation: tech_stack/Layer-2/storage_incentivisation.md
+    - Layer 3: tech_stack/Layer-3/Layer-3-Overview.md
+    - Layer 4: tech_stack/Layer-4/Layer-4-Overview.md
+
+
 # theme:
-#  name: 'material'
+#  name: 'null'
+#  custom_dir: 'mkdocs-material/material'
 #  palette:
 #    primary: 'deep orange'
 #    accent: 'deep orange'
