@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/w3f-wiki/badge/?version=latest)](http://wiki.web3.foundation/en/latest/?badge=latest)
+
 # Web3-wiki
 
 [W3F wiki](https://wiki.web3.foundation)
