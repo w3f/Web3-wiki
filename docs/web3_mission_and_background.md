@@ -1,4 +1,4 @@
-# Mission and Background
+# About
 
 The Web3 Foundation nurtures and stewards technologies and applications in the fields of decentralized web software protocols, particularly those which utilize modern cryptographic methods to safeguard decentralization, to the benefit and for the stability of the Web 3.0 ecosystem.
 
