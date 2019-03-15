@@ -1,6 +1,6 @@
 # Web3-wiki
 
-[Web3 wiki](https://wiki.web3.foundation)
+[W3F wiki](https://wiki.web3.foundation)
 
 The wiki provides an overview of some of the important technologies in the Web3 tech stack.
 
