@@ -30,13 +30,16 @@ nav:
     - Layer 4: tech_stack/Layer-4/Layer-4-Overview.md
 
 
-# theme:
-#  name: 'null'
-#  custom_dir: 'mkdocs-material/material'
-#  palette:
-#    primary: 'deep orange'
-#    accent: 'deep orange'
-#  logo: 'images/logo.svg'
+theme:
+  name: null
+  custom_dir: 'mkdocs-material/material'
+  language: 'en'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font: false
+  logo: 'images/logo.jpg'
+  feature: false
 
 extra:
   social:
