@@ -1,9 +1,14 @@
 # Web3-wiki
+
+[Web3 wiki](https://wiki.web3.foundation)
+
 The wiki provides an overview of some of the important technologies in the Web3 tech stack.
 
-There are two wikis in this directory:
+## Build
 
-[Polkadot wiki](https://wiki.polkadot.network)
+The wiki is hosted on [readthedocs](readthedocs.io) and is built automatically
+from this repository whenever a new commit is pushed to master.
 
-[W3F wiki](https://wiki.web3.foundation)
+## Contributing
 
+For contribution guidelines see [here](docs/contribution_guidelines.md).
