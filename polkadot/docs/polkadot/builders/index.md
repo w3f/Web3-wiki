@@ -13,8 +13,8 @@ reach out to us on [Riot](https://riot.im/app/#/room/#polkadot-watercooler:matri
 This section of the wiki is divided into three parts: the first
 part takes the shape of a technical guide that will get you quickly
 up to speed with developing for Polkadot. The second part is an
-up-to-date catalogue of developer tooling. The third part is a 
-resource which will contain some deeper technical information 
+up-to-date catalogue of developer tooling. The third part is a
+resource which will contain some deeper technical information
 that is not available to be found elsewhere.
 
 ## Development Guide
@@ -30,6 +30,6 @@ Visit the [tools](./tools/index.md) directory.
 
  - [Deploy your first parachain by Adrian Brink](https://www.youtube.com/watch?v=pDqkzvA4C0E) **For testnet 2**
  - [Networks](./networks.md)
- - [Examples]('./examples/index.md)
+ - [Examples](./examples/index.md)
 
 More coming soon.
