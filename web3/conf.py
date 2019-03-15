@@ -14,7 +14,7 @@ __all__ = (
     'load', 'BuildConfig', 'ConfigError', 'InvalidConfig', 'ProjectConfig')
 
 
-CONFIG_FILENAMES = ('readthedocs.yml', '.readthedocs.yml')
+CONFIG_FILENAMES = ('web3/readthedocs.yml', 'web3/.readthedocs.yml')
 
 
 BASE_INVALID = 'base-invalid'
