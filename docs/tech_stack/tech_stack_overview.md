@@ -1,4 +1,4 @@
-# Tech Stack
+# Tech Stack Overview
 
 ![](web3_stack.png)
 
