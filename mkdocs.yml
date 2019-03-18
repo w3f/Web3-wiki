@@ -41,8 +41,8 @@ theme:
     accent: 'deep orange'
   font: false
   logo: 'images/w3f_logo.svg'
-  feature: false
-  tabs: true
+  feature: 
+    tabs: true
 
 extra:
   social:
