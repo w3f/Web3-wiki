@@ -1,5 +1,6 @@
 # Web3 Hub
 
+!!! attention 
 **Disclaimer:** _This open source resource is a work in progress and is not an exhaustive list of all the projects in the Web3 Tech Stack. This resource should not be interpreted as a promotion or validation of any of the projects herein._
 
 Web 3 is the vision of the serverless internet, the decentralised web. An internet where users are in control of their own data, identity, and destiny.
