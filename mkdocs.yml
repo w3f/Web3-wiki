@@ -42,6 +42,7 @@ theme:
   font: false
   logo: 'images/w3f_logo.svg'
   feature: false
+  tabs: true
 
 extra:
   social:
@@ -56,5 +57,11 @@ extra:
 #   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 #   - mathjax-config.js
 
-# markdown_extensions:
+markdown_extensions:
 #    - mdx_math
+     - admonition
+     - codehilite:
+         guess_lang: false
+     - toc:
+         permalink: true
+
