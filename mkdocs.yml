@@ -1,5 +1,7 @@
 site_name: Web3 Hub
+site_description: 'Web3 Foundation Documentation'
 site_author: 'Web3 Foundation'
+site_url: 'https://wiki.web3.foundation'
 
 nav:
   - Contributing: contributing.md
@@ -35,10 +37,10 @@ theme:
   custom_dir: 'mkdocs-material/material'
   language: 'en'
   palette:
-    primary: 'indigo'
-    accent: 'indigo'
+    primary: 'deep orange'
+    accent: 'deep orange'
   font: false
-  logo: 'images/logo.jpg'
+  logo: 'images/w3f_logo.svg'
   feature: false
 
 extra:
