@@ -4,9 +4,10 @@ site_author: 'Web3 Foundation'
 site_url: 'https://wiki.web3.foundation'
 
 nav:
-  - Contributing: contributing.md
-  - Ecosystem: ecosystem.md
-  - Mission: mission.md
+  - Home: index.md
+  - Contributing: contributing/index.md
+  - Ecosystem: ecosystem/index.md
+  - Mission: mission/index.md
   - Tech Stack:
     - Overview: tech_stack/tech_stack_overview.md
     - Layer 0:
@@ -41,7 +42,7 @@ theme:
     accent: 'deep orange'
   font: false
   logo: 'images/w3f_logo.svg'
-  feature: 
+  feature:
     tabs: true
 
 extra:
@@ -64,4 +65,3 @@ markdown_extensions:
          guess_lang: false
      - toc:
          permalink: true
-
