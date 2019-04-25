@@ -1,7 +1,7 @@
 version: 2
 
 jobs:
-  tests:
+  build:
     docker:
       - image: python:3.6-alpine3.9
     steps:
@@ -18,12 +18,26 @@ jobs:
 
             mkdocs build --clean --site-dir _build/html --config-file ./mkdocs.yml
 
+  spellCheck:
+    docker:
+      - image: node:10.15-alpine
+    steps:
+      - checkout
+      - run:
+          command: |
+            npm i
+
+            npm run spellcheck
 
 workflows:
   version: 2
   test_and_deploy:
     jobs:
-      - tests:
+      - build:
+          filters:
+            tags:
+              only: /.*/
+      - spellCheck:
           filters:
             tags:
               only: /.*/
