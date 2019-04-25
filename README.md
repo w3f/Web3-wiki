@@ -1,4 +1,5 @@
 [![Documentation Status](https://readthedocs.org/projects/w3f-wiki/badge/?version=latest)](http://wiki.web3.foundation/en/latest/?badge=latest)
+[![CircleCI](https://circleci.com/gh/w3f/Web3-wiki.svg?style=svg)](https://circleci.com/gh/w3f/Web3-wiki)
 
 # Web3-wiki
 
