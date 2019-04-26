@@ -1,0 +1,43 @@
+version: 2
+
+jobs:
+  build:
+    docker:
+      - image: python:3.6-alpine3.9
+    steps:
+      - checkout
+      - run:
+          command: |
+            pip install virtualenv
+
+            python3.6 -mvirtualenv --no-site-packages --no-download .
+
+            source bin/activate
+
+            pip install -r requirements.txt
+
+            mkdocs build --clean --site-dir _build/html --config-file ./mkdocs.yml
+
+  spellCheck:
+    docker:
+      - image: node:10.15-alpine
+    steps:
+      - checkout
+      - run:
+          command: |
+            npm i
+
+            npm run spellcheck
+
+workflows:
+  version: 2
+  test_and_deploy:
+    jobs:
+      - build:
+          filters:
+            tags:
+              only: /.*/
+      - spellCheck:
+          filters:
+            tags:
+              only: /.*/
