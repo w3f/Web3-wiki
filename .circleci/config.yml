@@ -1,7 +1,7 @@
 version: 2
 
 jobs:
-  build:
+  tests:
     docker:
       - image: python:3.6-alpine3.9
     steps:
@@ -17,6 +17,23 @@ jobs:
             pip install -r requirements.txt
 
             mkdocs build --clean --site-dir _build/html --config-file ./mkdocs.yml
+      - run:
+          name: serve
+          background: true
+          command: |
+            source bin/activate
+
+            mkdocs serve
+
+      - run:
+          name: check links
+          command: |
+            pip install pylinkvalidator html5lib
+
+            sed -i -e 's/\(decode("ascii")\)/\1.replace(" ", "%20")/g' /usr/local/lib/python3.6/site-packages/pylinkvalidator/urlutil.py
+
+            pylinkvalidate.py --parser=html5lib -P http://localhost:8000
+
 
   spellCheck:
     docker:
@@ -31,9 +48,9 @@ jobs:
 
 workflows:
   version: 2
-  test_and_deploy:
+  build_and_tests:
     jobs:
-      - build:
+      - tests:
           filters:
             tags:
               only: /.*/
