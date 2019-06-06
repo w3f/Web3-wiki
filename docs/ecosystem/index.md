@@ -6,7 +6,7 @@
 * [Substrate](https://www.parity.io/substrate/) - _Generate your own blockchains that are by default compatible with the Polkadot Runtime Environment._
 * [PolkaDAO](https://medium.com/polkadot-network/announcing-polkadao-fund-your-project-1891e6d895a) - _Fund your Polkadot project with DAI._
 * [PolkaScan](https://polkascan.io/) - _Multi-chain block explorer for the Web3 stack._
-* [Polka.io](https://polka.io/) - _Polkadot Muti-Chain Explorer._
+* [Polka.io](https://polka.io/) - _Polkadot Multi-Chain Explorer._
 
 ## Other
 
