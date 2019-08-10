@@ -14,7 +14,7 @@ Cartesi is a layer-2 platform for the development and deployment of scalable dec
 ### Resources
 
 * [Cartesi's Website](https://cartesi.io)
-* [Cartesi's Whitepaper])(https://cartesi.io/cartesi_whitepaper.pdf)
+* [Cartesi's Whitepaper](https://cartesi.io/cartesi_whitepaper.pdf)
 
 ## Golem
 Golem is a global, open source, decentralized supercomputer that anyone can access. It is made up of the combined power of users' machines, from PCs to entire data centers. 
